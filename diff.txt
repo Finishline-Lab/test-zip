@@ -1,2 +1,0 @@
-diff.txt
-directory1/change_track.txt
